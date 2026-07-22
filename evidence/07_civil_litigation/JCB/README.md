@@ -16,31 +16,116 @@
 
 本件に関する記述は、原告の認識、提出資料、時系列整理に基づくものであり、今後の裁判所の判断、被告の主張、提出証拠、手続進行により、必要に応じて更新される可能性がある。
 
-なお、甲号証については、甲第7号証を除き、本Repositoryのevidenceにて公開しているものである。
+なお、甲号証については、`令和８年３月１３日以降の時系列表`を除き、本Repositoryの`/evidence/`にて公開しているものである。
 
 ---
 
-## 甲号証対応表
+## 東京簡易裁判所提出 甲号証対応表
 
-### 甲第１号証
-Project-Resilience-2016/evidence/02_contents_certified/[内容証明1回目]時効援用通知書謄本.pdf
-### 甲第２号証
-Project-Resilience-2016/evidence/01_emails_redacted/証拠物件1 Sへのメール.pdf
-Project-Resilience-2016/evidence/01_emails_redacted/証拠物件2 Sからのメール.pdf
-Project-Resilience-2016/evidence/01_emails_redacted/証拠物件3 Sからの直近のメール.pdf
-### 甲第３号証
-Project-Resilience-2016/evidence/02_contents_certified/[内容証明2回目]時効援用通知書謄本.pdf
-### 甲第４号証
-Project-Resilience-2016/evidence/04_company_letters/JCBからの封書26.4.14.26.4.17.pdf
-### 甲第５号証
-Project-Resilience-2016/evidence/04_company_letters/JCBからの封書26.5.19.20.5.26.26.5.22.pdf
-### 甲第６号証
-Project-Resilience-2016/evidence/00_submission_to_METI/ジェーシービー公益通報受付フォーム（METI_経済産業省）.pdf
-Project-Resilience-2016/evidence/05_administrative_dialogue/Gmail - 先般の情報提供に関する証拠資料の送付について.pdf
-Project-Resilience-2016/evidence/05_administrative_dialogue/Gmail - 経済産業省公益通報窓口にご連絡いただいた件につきまして.pdf
-### 甲第７号証
-Project-Resilience-2016/evidence/07_procedure in civil litigation/JCB/令和８年３月１３日以降の時系列表.pdf
-### 甲第８号証
-Project-Resilience-2016/evidence/03_cic_redacted/CIC信用情報開示報告書cicservice20260407.pdf
-### 甲第９号証
-Project-Resilience-2016/evidence/03_cic_redacted/CIC信用情報開示報告書cicservice202605251654.pdf
+### 対象事件：令和8年（ハ）第23832号
+
+#### 甲第１号証
+
+[令和８年３月１３日付時効援用通知書謄本](../../02_content_certified_mail_redacted/消滅時効援用通知書謄本_2026-03-13.pdf)
+
+#### 甲第２号証
+
+[令和８年３月１３日送付の特定記録郵便資料、第三者支配に関するメール資料](../../01_general_communications_redacted/第三者支配に関するメール資料/)
+
+※ 裁判所には、遷移先に掲載する3資料を一括して甲第2号証として提出した。
+
+本Repositoryでは、各資料を個別ファイルとして掲載している。
+
+#### 甲第３号証
+
+[令和８年４月１０日付時効援用通知書謄本](../../02_content_certified_mail_redacted/消滅時効援用通知書謄本_2026-04-10.pdf)
+
+甲第４号証
+
+[令和８年４月１４日作成の被告書面「ご連絡のお願い」](../../04_company_letters/JCB/封書(ご連絡のお願い)_本文2026-4-14_到着2026-4-17.pdf)
+
+#### 甲第５号証
+
+[令和８年５月１９日作成の被告書面「ご連絡のお願い」](../../04_company_letters/JCB/封書(ご連絡のお願い)_本文2026-5-19_メーター印20-5-26_到着2026-5-22.pdf)
+
+#### 甲第６号証：経済産業省公益通報窓口とのメール
+
+- [経済産業省公益通報受付フォーム](../../00_submissions_to_authorities/METI/ジェーシービー_経産省公益通報受付フォーム_2026-04-22_11-25.pdf)
+- [経済産業省公益通報窓口にご連絡いただいた件につきまして（メール）](../../05_administrative_dialogue/ジェーシービー_三菱UFJニコス_経済産業省公益通報窓口_情報提供として受理通知.pdf)
+- [先般の情報提供に関する証拠資料の送付について（メール）](../../05_administrative_dialogue/ジェーシービー_三菱UFJニコス_経済産業省公益通報窓口宛_証拠資料送付メール.pdf)
+
+※ 裁判所には、上記3資料を一括して甲第6号証として提出した。
+
+本Repositoryでは、資料の性質及び出所に応じて異なるディレクトリに分けて掲載している。
+
+#### 甲第７号証
+
+[令和８年３月１３日以降の時系列表](../../07_civil_litigation/JCB/令和８年３月１３日以降の時系列表.pdf)
+
+#### 甲第８号証
+
+[CIC信用情報開示報告書（令和８年４月７日受付）](../../03_credit_information_disclosures_redacted/CIC/信用情報開示報告書_cicservice_2026-04-07.pdf)
+
+#### 甲第９号証
+
+[CIC信用情報開示報告書（令和８年５月２５日１６時５４分確認）](../../03_credit_information_disclosures_redacted/CIC/信用情報開示報告書_cicservice_2026-05-25_16-54.pdf)
+
+---
+
+## 東京地方裁判所提出 甲号証対応表
+
+### 対象事件：令和8年（ワ）第104428号
+
+#### 甲第１号証
+
+[時効援用通知書謄本(令和８年３月１３日付)](../../02_content_certified_mail_redacted/消滅時効援用通知書謄本_20260313.pdf)
+
+#### 甲第２号証
+
+[特定記録郵便資料第三者支配に関するメール資料(令和８年３月１３日付)](../../01_general_communications_redacted/第三者支配に関するメール資料/)
+
+※ 裁判所には、遷移先に掲載する3資料を一括して甲第2号証として提出した。
+
+本Repositoryでは、各資料を個別ファイルとして掲載している。
+
+#### 甲第３号証
+
+[時効援用通知書謄本(令和８年４月１０日付)](../../02_content_certified_mail_redacted/消滅時効援用通知書謄本_2026-04-10.pdf)
+
+#### 甲第４号証
+
+[被告書面「ご連絡のお願い」(令和８年４月１４日と記載)](../../04_company_letters/JCB/封書(ご連絡のお願い)_本文2026-4-14_到着2026-4-17.pdf)
+
+#### 甲第５号証
+
+[被告書面「ご連絡のお願い」(令和８年５月１９日と記載)](../../04_company_letters/JCB/封書(ご連絡のお願い)_本文2026-5-19_メーター印20-5-26_到着2026-5-22.pdf)
+
+#### 甲第６号証：経済産業省公益通報窓口への情報提供資料及び同窓口からの返信メール
+
+- [経済産業省公益通報受付フォーム](../../00_submissions_to_authorities/METI/ジェーシービー_経産省公益通報受付フォーム_2026-04-22_11-25.pdf)
+- [経済産業省公益通報窓口にご連絡いただいた件につきまして（メール）](../../05_administrative_dialogue/ジェーシービー_三菱UFJニコス_経済産業省公益通報窓口_情報提供として受理通知.pdf)
+- [先般の情報提供に関する証拠資料の送付について（メール）](../../05_administrative_dialogue/ジェーシービー_三菱UFJニコス_経済産業省公益通報窓口宛_証拠資料送付メール.pdf)
+
+※ 裁判所には、上記3資料を一括して甲第6号証として提出した。
+
+本Repositoryでは、資料の性質及び出所に応じて異なるディレクトリに分けて掲載している。
+
+#### 甲第７号証
+
+[本件時効援用後対応及び信用情報照会に関する時系列表](../../07_civil_litigation/JCB/令和８年３月１３日以降の時系列表.pdf)
+
+#### 甲第８号証
+
+[CIC信用情報開示報告書(令和8年4月7日受付)](../../03_credit_information_disclosures_redacted/CIC/信用情報開示報告書_cicservice_2026-04-07.pdf)
+
+#### 甲第９号証
+
+[JICC信用情報開示報告書(令和8年4月20日開示日)](../../03_credit_information_disclosures_redacted/信用情報記録開示書_JICC_2026-04-20.pdf)
+
+#### 甲第１０号証
+
+[CIC信用情報開示報告書(令和8年5月25日開示日)](../../03_credit_information_disclosures_redacted/CIC/信用情報開示報告書_cicservice_2026-05-25_16-54.pdf)
+
+#### 甲第１１号証
+
+[CIC信用情報開示報告書(令和8年7月6日開示日)](../../03_credit_information_disclosures_redacted/CIC/信用情報開示報告書_cicservice_2026-07-06_08-08.pdf)
