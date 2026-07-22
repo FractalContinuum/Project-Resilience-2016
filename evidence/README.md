@@ -4,14 +4,13 @@
 
 ## Planned Files
 
-- 00_submission_to_METI.pdf
-- 00_submission_to_FSA_and_Local_Finance_Bureau.pdf
-
-- 01_emails_redacted.pdf
-- 02_contents_certified.pdf
-- 03_cic_redacted.pdf
+- 00_submissions_to_authorities.pdf
+- 01_general_communications_redacted.pdf
+- 02_content_certified_mail_redacted.pdf
+- 03_credit_information_disclosures_redacted.pdf
 - 04_company_letters.pdf
 - 05_administrative_dialogue.pdf
 - 06_delivery_certificates.pdf
+- 07_civil_litigation.pdf
 
 原本は非公開で保管している。
