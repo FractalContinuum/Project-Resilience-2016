@@ -1,4 +1,4 @@
-# Alpha Servicer and JEES Civil Litigation
+# JEES and Alpha Servicer Civil Litigation
 
 ## 趣旨
 
@@ -23,7 +23,7 @@
 
 #### 甲第1号証
 
-[奨学生証](../../../../JASSO_奨学生証.pdf)
+[奨学生証](./JASSO_奨学生証.pdf)
 
 立証趣旨の概要：
 原告が独立行政法人日本学生支援機構の第二種奨学金の奨学生であったこと、貸与期間、機関保証制度、保証料月額等を示す資料。
