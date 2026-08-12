@@ -80,6 +80,9 @@ Archival and case-study repository documenting long-term economic, debt, credit-
 * `timeline.md`
   時系列情報の基礎整理
 
+* `訴訟書面等の草稿・母稿`
+  公開文書・提出文書の作成過程における一次的整理資料
+
 `raw`配下の資料は、完成した分析又は確定的評価を示すものではありません。
 
 ## Purpose
